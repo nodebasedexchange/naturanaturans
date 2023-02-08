@@ -1,0 +1,3 @@
+[submodule "type-icon-ography/NerdFonts"]
+	path = type-icon-ography/NerdFonts
+	url = https://github.com/ryanoasis/nerd-fonts.git

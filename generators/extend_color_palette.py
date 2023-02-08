@@ -10,9 +10,9 @@ import seaborn as sea
 # Check out the documentation for parameters that are supported for Extending Natura Naturans
 # https://glasbey.readthedocs.io/en/latest/index.html
 
-print(glasbey.extend_palette("#55aabb", palette_size=24, lightness_bounds=(20, 40), chroma_bounds=(10, 30)))
+print(glasbey.extend_palette("#5d9960", palette_size=16, lightness_bounds=(5, 40), chroma_bounds=(30, 40)))
 sea.set()
-sea.palplot(glasbey.extend_palette("#55aabb", palette_size=24, lightness_bounds=(20, 40), chroma_bounds=(10, 30)))
+sea.palplot(glasbey.extend_palette("#5d9960", palette_size=16, lightness_bounds=(5, 40), chroma_bounds=(30, 40)))
 plt.show()
 
 # Important to remember for changing things:
