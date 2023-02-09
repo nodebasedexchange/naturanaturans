@@ -9,10 +9,10 @@
 </h3>
 
 <p align="center">
-<a href="https://www.n-be.com" target="_blank"><img src="https://img.shields.io/github/v/tag/nodebasedexchange/naturanaturans?label=Version&logo=git&logoColor=55aabb&style=for-the-badge"/></a> 
+<a href="https://www.n-be.com" target="_blank"><img src="https://img.shields.io/badge/Version-0.1.03 beta-000?&style=for-the-badge&colorA=030303&colorB=3A403B"/></a> 
 <a href="https://github.com/nodebasedexchange/naturanaturans/blob/master/LICENSE.md" target="_blank"><img src="https://img.shields.io/github/license/nodebasedexchange/naturanaturans?&style=for-the-badge&colorA=030303&colorB=3A403B"/></a>
-<a href="https://www.n-be.com" target="_blank"><img src="https://img.shields.io/badge/Docs%20Version-0.1-black"/></a>
-<a href="https://www.n-be.com" target="_blank"><img src="https://img.shields.io/badge/Supported%20Apps-x3-black"/></a>
+<a href="https://www.n-be.com" target="_blank"><img src="https://img.shields.io/badge/Docs-0.1.03 beta-000?&style=for-the-badge&colorA=030303&colorB=3A403B"/></a>
+<a href="https://www.n-be.com" target="_blank"><img src="https://img.shields.io/badge/Ported Apps-3-000?&style=for-the-badge&colorA=030303&colorB=3A403B"/></a>
 
 
 
@@ -49,17 +49,24 @@
 
 # Shape Symmetry:  
 
+
+
 # Web Style Sheets: 
+
+
 
 # Themed Wallpapers:
 
+
+
 # Applications Ported:
+
+
 
 ---
 
 ### Todo
 
 - [ ] Add the Color Palette once the showcase assets are edited
-- [ ] Fix the Github Shields & their links 
 - [ ] Add the Iconography & Typography Folders & Submodules
 - [ ] Create a `.github` folder with the ignored files & etc.
