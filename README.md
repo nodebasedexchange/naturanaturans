@@ -28,6 +28,22 @@
 
 ![Alt text](assets/Natura%20Naturans%20Palette%20View.png)
 
+---
+
+### Base16 Palette
+
+![Alt text](assets/Base16%20Natura%20Naturans.png)
+
+---
+
+### Available Color Palette Formats
+
+> GIMP `.gpl` Color Palette swatch file for all 16(14) Colors
+
+> Base16 `.sh` Color Palette for Terminals/XResources/etc.
+
+> Photoshop `.aco` & `.ase` Color Swatch for all 16(14) Colors
+
 # Typography & Fonts:
 > 
 
