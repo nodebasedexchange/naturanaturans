@@ -18,13 +18,15 @@
 
 </p>
 
-
+![Alt text](assets/Natura%20Naturans%20Palette%20Strip.png)
 
 *Natura Naturans* is a themed suite that is an open source, Earth toned color theme based on [Werners Nomenclature of Colors](https://publicdomainreview.org/collection/werner-s-nomenclature-of-colours-1814) & the updated version, [Nature's Palette](https://press.princeton.edu/books/hardcover/9780691217048/natures-palette). The rough translation; 'Nature Naturing' is what this color theme tries to emulate, with adjustments to the colors made for modern interfaces.
 
 > Showcases for all the Themed Suites are the following:
 
 # Color Palette / Swatch:
+
+![Alt text](assets/Natura%20Naturans%20Palette%20View.png)
 
 # Typography & Fonts:
 > 
@@ -67,6 +69,12 @@
 
 ### Todo
 
-- [ ] Add the Color Palette once the showcase assets are edited
 - [ ] Add the Iconography & Typography Folders & Submodules
 - [ ] Create a `.github` folder with the ignored files & etc.
+- [ ] Create a Roadmap for all the Packages & Features that Natura Naturans will eventually encompass
+- [ ] Create a Contributing Guideline & Issue/Discussion Template 
+- [ ] Add the screenshots/images of the Themed Elements
+    - [ ] Themed Applications screenshots
+    - [ ] Font & Icon pack preview images
+    - [ ] Generators example images
+    - [ ] Example Wallpapers made with [ImageTheming](https://github.com/daniel-seiler/ImageTheming)

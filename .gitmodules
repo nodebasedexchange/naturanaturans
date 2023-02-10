@@ -1,3 +1,9 @@
 [submodule "type-icon-ography/NerdFonts"]
 	path = type-icon-ography/NerdFonts
 	url = https://github.com/ryanoasis/nerd-fonts.git
+[submodule "type-icon-ography/simple-icons"]
+	path = type-icon-ography/simple-icons
+	url = https://github.com/simple-icons/simple-icons.git
+[submodule "type-icon-ography/Arcticons"]
+	path = type-icon-ography/Arcticons
+	url = https://github.com/Donnnno/Arcticons.git

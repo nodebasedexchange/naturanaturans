@@ -8,19 +8,19 @@
 
 ### Nerd Fonts
 
-
+> Developer friendly Font & Icon Pack
 
 ---
 
 ### Articons
 
-
+> An open source Android Icon Theme  
 
 ---
 
 ### Simple-Icons
 
-
+> Github Shields Icon Pack of common Developer Tools
 
 ---
 
