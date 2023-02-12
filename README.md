@@ -20,7 +20,7 @@
 
 ![Alt text](assets/Natura%20Naturans%20Palette%20Strip.png)
 
-*Natura Naturans* is a themed suite that is an open source, Earth toned color theme based on [Werners Nomenclature of Colors](https://publicdomainreview.org/collection/werner-s-nomenclature-of-colours-1814) & the updated version, [Nature's Palette](https://press.princeton.edu/books/hardcover/9780691217048/natures-palette). The rough translation; 'Nature Naturing' is what this color theme tries to emulate, with adjustments to the colors made for modern interfaces.
+*Natura Naturans* is a collection of open source projects creating a themed suite of aggregated UI components & an Earth toned color theme based on [Werners Nomenclature of Colors](https://publicdomainreview.org/collection/werner-s-nomenclature-of-colours-1814) & the updated version, [Nature's Palette](https://press.princeton.edu/books/hardcover/9780691217048/natures-palette). The rough translation; 'Nature Naturing' is what this theme attempts to emulate, with adjustments to the colors made for modern interfaces.
 
 > Showcases for all the Themed Suites are the following:
 
@@ -30,7 +30,7 @@
 
 ---
 
-### Base16 Palette
+### Base16 Palette Table
 
 ![Alt text](assets/Base16%20Natura%20Naturans.png)
 
@@ -38,18 +38,20 @@
 
 ### Available Color Palette Formats
 
-> GIMP `.gpl` Color Palette swatch file for all 16(14) Colors
+> GIMP `.gpl` Color Palette swatch file for all Colors
 
 > Base16 `.sh` Color Palette for Terminals/XResources/etc.
 
-> Photoshop `.aco` & `.ase` Color Swatch for all 16(14) Colors
+> Photoshop `.aco` & `.ase` Proprietary Color Swatches for Adobe
 
 # Typography & Fonts:
 > 
 
 ### Interface Fonts
 
+### Google Fonts
 
+### NerdFonts & Glyphs
 
 # Iconography & Logos:
 
@@ -64,20 +66,39 @@
 ### Material
 
 
+# Applications Ported:
 
-# Shape Symmetry:  
+### CLI / TUI
 
+### Firefox
+
+### VSCode
+
+# Available Packages:
+
+### NPM / Yarn
+
+### pip / Python 
+
+### crates / Rust
 
 
 # Web Style Sheets: 
 
+### Ol' CSS
+
+### Sass
+
+### Tailwind
 
 
 # Themed Wallpapers:
 
+Using [ImageTheming](https://github.com/daniel-seiler/ImageTheming) & the `.sh` Base16 colors file to generate wallpapers from Creative Commons licensed images in 4K for downloading & 1080p for Github previews. 
 
+`the path to a config file, e.g. \"../.config/colors\" or\n +`
 
-# Applications Ported:
+# Shape Symmetry:  
 
 
 
