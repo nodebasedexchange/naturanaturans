@@ -18,7 +18,7 @@
 
 </p>
 
- <img alt="Natura Naturans Line Break" src="./assets/Natura%20Naturans%20Palette%20Strip.png">
+ <img src="./assets/Natura%20Naturans%20Palette%20Strip.png" alt="Natura Naturans Line Break">
 
 *Natura Naturans* is a collection of open source projects creating a themed suite of aggregated UI components & an Earth toned color theme based on [Werners Nomenclature of Colors](https://publicdomainreview.org/collection/werner-s-nomenclature-of-colours-1814) & the updated version, [Nature's Palette](https://press.princeton.edu/books/hardcover/9780691217048/natures-palette). The rough translation; 'Nature Naturing' is what this theme attempts to emulate, with adjustments to the colors made for modern interfaces.
 
@@ -26,13 +26,13 @@
 
 # Color Palette / Swatch:
 
-<img alt="Natura Naturans Color Palette" src="./assets/Natura%20Naturans%20Palette%20View.png">
+<img src="./assets/Natura%20Naturans%20Palette%20View.png" alt="Natura Naturans Color Palette">
 
 ---
 
 ### Base16 Palette Table
 
-<img alt="Natura Naturans Base16 Color Table" src="./assets/Base16%20Natura%20Naturans.png">
+<img src="./assets/Base16%20Natura%20Naturans.png" alt="Natura Naturans Base16 Color Table">
 
 ---
 
