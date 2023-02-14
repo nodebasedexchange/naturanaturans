@@ -18,7 +18,7 @@
 
 </p>
 
-![Alt text](assets/Natura%20Naturans%20Palette%20Strip.png)
+![Natura Naturans Color Strip](assets/Natura%20Naturans%20Palette%20Strip.png)
 
 *Natura Naturans* is a collection of open source projects creating a themed suite of aggregated UI components & an Earth toned color theme based on [Werners Nomenclature of Colors](https://publicdomainreview.org/collection/werner-s-nomenclature-of-colours-1814) & the updated version, [Nature's Palette](https://press.princeton.edu/books/hardcover/9780691217048/natures-palette). The rough translation; 'Nature Naturing' is what this theme attempts to emulate, with adjustments to the colors made for modern interfaces.
 
