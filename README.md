@@ -117,3 +117,4 @@ Using Images from the Creative Commons Library [OpenVerse](https://openverse.org
     - [ ] Font & Icon pack preview images
     - [ ] Generators example images
     - [ ] Example Wallpapers made with [ImageTheming](https://github.com/daniel-seiler/ImageTheming)
+- [ ] Create the wiki.js Theme for the Documentation Website
