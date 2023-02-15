@@ -96,6 +96,8 @@
 
 Using [ImageTheming](https://github.com/daniel-seiler/ImageTheming) & the `.sh` Base16 colors file to generate wallpapers from Creative Commons licensed images in 4K for downloading & 1080p for Github previews. 
 
+Using Images from the Creative Commons Library [OpenVerse](https://openverse.org/)
+
 `the path to a config file, e.g. \"../.config/colors\" or\n +`
 
 # Shape Symmetry:  
